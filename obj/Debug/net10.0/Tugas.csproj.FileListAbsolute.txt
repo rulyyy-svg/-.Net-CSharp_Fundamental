@@ -1,0 +1,15 @@
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\bin\Debug\net10.0\Tugas.exe
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\bin\Debug\net10.0\Tugas.deps.json
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\bin\Debug\net10.0\Tugas.runtimeconfig.json
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\bin\Debug\net10.0\Tugas.dll
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\bin\Debug\net10.0\Tugas.pdb
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.AssemblyInfoInputs.cache
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.AssemblyInfo.cs
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.csproj.CoreCompileInputs.cache
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.dll
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\refint\Tugas.dll
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.pdb
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.genruntimeconfig.cache
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\ref\Tugas.dll
+C:\Users\bagas\OneDrive\Desktop\Maganghub X MII\Back-End\Tugas\obj\Debug\net10.0\Tugas.csproj.Up2Date
