@@ -8,3 +8,7 @@ dan jam keluar (lebih dari jam masuk, maksimal 24) tiap kendaraan. Ulang input y
 •⁠  ⁠Biaya maksimal (const): motor 10.000, mobil 25.000. Jika biaya melebihi batas, yang dibayar adalah batasnya.
 •⁠  ⁠Cetak karcis tiap kendaraan, lalu jumlah motor, jumlah mobil, dan total pendapatan.
 •⁠  ⁠Method minimal: NamaJenis(jenis), HitungBiaya(jenis, durasi) dengan switch, dan CetakKarcis(...).
+
+Anggota Kelompok 
+•⁠  ⁠Muhammad Bagas Ruliansyah
+•⁠  ⁠Muh Fatkhi Alexander
